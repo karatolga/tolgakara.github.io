@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Tolga Kara</title>
-    <link>/categories/articles/</link>
-    <description>Recent content in Articles on Tolga Kara</description>
+    <title>Netlify on Tolga Kara</title>
+    <link>/tags/netlify/</link>
+    <description>Recent content in Netlify on Tolga Kara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,15 @@
       
       <guid>/publications/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Tolga Kara</title>
+      <link>/blog/first/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description>R dili ile websitesi oluşturmak hakkında bir blog yazısı</description>
     </item>
     
   </channel>

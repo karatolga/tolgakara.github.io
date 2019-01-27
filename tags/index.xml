@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tolga Kara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,9 @@
     <item>
       <title>About</title>
       <link>/tags/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Wed, 30 Jan 2019 22:55:05 -0400</pubDate>
       
       <guid>/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aviato</title>
-      <link>/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/aviato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bachman</title>
-      <link>/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/bachman/</guid>
       <description></description>
     </item>
     
@@ -66,11 +48,11 @@
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>/tags/hardware/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/tags/hardware/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
@@ -84,11 +66,11 @@
     </item>
     
     <item>
-      <title>Pied Piper</title>
-      <link>/tags/pied-piper/</link>
+      <title>Netlify</title>
+      <link>/tags/netlify/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/tags/pied-piper/</guid>
+      <guid>/tags/netlify/</guid>
       <description></description>
     </item>
     
@@ -98,6 +80,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programlama</title>
+      <link>/tags/programlama/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/programlama/</guid>
       <description></description>
     </item>
     
@@ -116,6 +107,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     

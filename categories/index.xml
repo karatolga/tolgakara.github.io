@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Tolga Kara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>About</title>
       <link>/categories/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Wed, 30 Jan 2019 22:55:05 -0400</pubDate>
       
       <guid>/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ad</title>
-      <link>/categories/ad/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/categories/ad/</guid>
       <description></description>
     </item>
     
@@ -35,6 +26,15 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/categories/programming/</guid>
       <description></description>
     </item>
     

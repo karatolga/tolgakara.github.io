@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>/blog/third/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
@@ -34,36 +34,18 @@
   
   <url>
     <loc>/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/ad/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/articles/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/aviato/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bachman/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,7 +64,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,8 +81,8 @@
   </url>
   
   <url>
-    <loc>/tags/hardware/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <loc>/tags/github/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/tags/pied-piper/</loc>
+    <loc>/tags/netlify/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -119,6 +101,18 @@
   <url>
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/programlama/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,14 +141,20 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/rstudio/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2019-01-30T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
