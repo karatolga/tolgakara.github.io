@@ -21,56 +21,47 @@
     </item>
     
     <item>
-      <title>Belson</title>
-      <link>/tags/belson/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Conference</title>
+      <link>/tags/conference/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/tags/belson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ceo</title>
-      <link>/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/tags/ceo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gavin</title>
-      <link>/tags/gavin/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/tags/gavin/</guid>
+      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
       <link>/tags/github/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hooli</title>
-      <link>/tags/hooli/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Journal</title>
+      <link>/tags/journal/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/tags/hooli/</guid>
+      <guid>/tags/journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netlify</title>
       <link>/tags/netlify/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>/tags/paper/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/paper/</guid>
       <description></description>
     </item>
     
@@ -86,7 +77,7 @@
     <item>
       <title>Programlama</title>
       <link>/tags/programlama/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/programlama/</guid>
       <description></description>
@@ -111,9 +102,18 @@
     </item>
     
     <item>
+      <title>Renewable Energy</title>
+      <link>/tags/renewable-energy/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rstudio</title>
       <link>/tags/rstudio/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/rstudio/</guid>
       <description></description>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Tolga Kara</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Tolga Kara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>[1]Yazicioglu H., Tunc K.M.M., Ozbek M., Kara T., Simulation of Electricity Generation by Marine Current Turbines at Istanbul Bosphorus Strait. Journal of Energy, DOI:10.1016/j.energy.2015.11.038 [2]Yazicioglu H., Tunc K.M.M., Ozbek M., Kara T., Energy Yield Potential Estimation using Marine Current Turbine Simulations for the Bosphorus, ENEFM-2015 the 3rd International Congress on Energy Efficiency and Energy Related Materials, October 19-23, 2015, Oludeniz, Fethiye/TURKEY [3]Kara T., Yazicioglu H., Ozbek M., Tunc K.M.M., Estimation of Ambient Turbulence Intensity over Complex Terrain.</description>
+    </item>
+    
+  </channel>
+</rss>

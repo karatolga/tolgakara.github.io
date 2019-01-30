@@ -17,16 +17,7 @@
       <pubDate>Wed, 30 Jan 2019 22:55:05 -0400</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Tolga Kara. I am PhD candidate at ITU.</description>
-    </item>
-    
-    <item>
-      <title>Hooli’s Hot New Hardware</title>
-      <link>/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.</description>
+      <description>My name is Tolga Kara. I am PhD student in Atmospheric Science at ITU. Within my research I am mainly interested in renewable energy related topics, such as the improving wind power production forecasting in short and long term purposes, resource assessment, atmospheric influences upon the wind energy resource observations, and the interaction of wind farms with the atmospheric boundary layer.</description>
     </item>
     
     <item>
@@ -35,25 +26,9 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tolga Kara</title>
-      <link>/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/blog/first/</guid>
-      <description>R dili ile websitesi oluşturmak hakkında bir blog yazısı</description>
-    </item>
-    
-    <item>
-      <title>Belson Back on Top</title>
-      <link>/blog/second/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/blog/second/</guid>
-      <description></description>
+      <description>Kara T., Yazicioglu H., Ozbek M., Tunc K.M.M., Estimation of Ambient Turbulence Intensity over Complex Terrain. Special Issue of the 7th International Advances in Applied Physics and Materials Science (APMAS 2017),DOI:10.12693/APhysPolA.134.447.
+Yazicioglu H., Kara T., Ozbek M., Determination of Ambient Turbulence Intensities for Stratified Atmospheric Flow. Special Issue of the 7th International Advances in Applied Physics and Materials Science (APMAS 2017),DOI: 10.12693/APhysPolA.134.451.
+Yazicioglu H., Tunc K.M.M., Ozbek M., Kara T., Simulation of Electricity Generation by Marine Current Turbines at Istanbul Bosphorus Strait.</description>
     </item>
     
     <item>
@@ -65,6 +40,15 @@
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>RStudio ile Netlify üzerinden websitesi oluşturma</title>
+      <link>/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description>R dili ile websitesi oluşturmak hakkında bir blog yazısı</description>
     </item>
     
   </channel>

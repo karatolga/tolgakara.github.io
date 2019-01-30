@@ -8,23 +8,8 @@
   </url>
   
   <url>
-    <loc>/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publications/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/first/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/second/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
   </url>
   
   <url>
@@ -51,14 +36,8 @@
   </url>
   
   <url>
-    <loc>/tags/belson/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,31 +48,29 @@
   </url>
   
   <url>
-    <loc>/tags/ceo/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gavin/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/github/</loc>
+    <loc>/tags/conference/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hooli/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>/tags/github/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/journal/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/netlify/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -106,19 +83,11 @@
   
   <url>
     <loc>/tags/programlama/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/programming/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/propaganda/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,14 +104,23 @@
   </url>
   
   <url>
+    <loc>/blog/first/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/rstudio/</loc>
+    <loc>/tags/renewable-energy/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
     <priority>0</priority>
   </url>
   
